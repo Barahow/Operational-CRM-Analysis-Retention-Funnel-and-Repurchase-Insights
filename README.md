@@ -1,2 +1,2 @@
-# ChurnShield-Real-Time-Customer-Retention-Analytics
-ChurnShield predicts customer churn in real time using synthetic and streaming data. It includes automated data pipelines, a Spring Boot API for scoring, and Power BI dashboards with alerts for retention teams. This project highlights skills in data engineering, machine learning, API development, and BI.
+Operational-CRM-Analysis
+This project delivers end-to-end CRM analytics focused on customer retention, purchase funnel optimization, and repurchase prediction using simulated eCommerce and streaming data. It features automated data pipelines, real-time scoring APIs built with Spring Boot, and interactive Power BI dashboards designed to provide actionable insights for retention teams. The solution demonstrates expertise in data engineering, predictive modeling, API development, and business intelligence visualization.
