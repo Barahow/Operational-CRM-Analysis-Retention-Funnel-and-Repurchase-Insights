@@ -1,2 +1,3 @@
-Operational-CRM-Analysis
-This project delivers end-to-end CRM analytics focused on customer retention, purchase funnel optimization, and repurchase prediction using simulated eCommerce and streaming data. It features automated data pipelines, real-time scoring APIs built with Spring Boot, and interactive Power BI dashboards designed to provide actionable insights for retention teams. The solution demonstrates expertise in data engineering, predictive modeling, API development, and business intelligence visualization.
+# Operations & CRM Performance Dashboard with Retention Analysis
+
+End-to-end CRM analytics using simulated eCommerce and streaming data to identify retention drivers, optimize purchase funnels, and predict repurchase likelihood. Includes automated pipelines, real-time scoring APIs with Spring Boot, and interactive Power BI dashboards for actionable retention insights.
