@@ -2,7 +2,7 @@ import pyodbc
 
 server   = 'host.docker.internal,1433'  # Instead of 'localhost,1433'
      
-database = 'CustomerChurnPrediction'
+database = 'Operations_Retention'
 username = 'docker_user'
 password = 'root'                        # simple for testing
 

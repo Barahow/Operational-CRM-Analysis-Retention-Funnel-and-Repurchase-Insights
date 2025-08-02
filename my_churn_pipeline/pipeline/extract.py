@@ -4,7 +4,7 @@ from datetime import timedelta, datetime
 
 def get_db_engine():
     connection_url = (
-    "mssql+pyodbc://docker_user:root@host.docker.internal:1433/CustomerChurnPrediction"
+    "mssql+pyodbc://docker_user:root@host.docker.internal:1433/Operations_Retention"
     "?driver=ODBC+Driver+17+for+SQL+Server"
     "&TrustServerCertificate=yes"
     "&Encrypt=no"

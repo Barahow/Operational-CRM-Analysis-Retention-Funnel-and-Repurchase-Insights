@@ -13,3 +13,5 @@ tqdm
 pytz
 pyodbc
 sqlalchemy
+datasets
+pyarrow

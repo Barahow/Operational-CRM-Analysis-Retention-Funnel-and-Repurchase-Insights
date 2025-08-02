@@ -212,3 +212,5 @@ last_processed_date.txt
 my_churn_pipeline/requirements.txt
 my_churn_pipeline/.vscode/settings.json
 notebooks/.vscode/settings.json
+requirements.txt
+requirements.txt

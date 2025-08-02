@@ -55,6 +55,7 @@ def run_pipeline():
     current_date = start_date
 
     while current_date < end_date:
+        
         next_date = add_months(current_date, 1)
 
         # Define lookback windows for each table
