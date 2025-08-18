@@ -108,11 +108,9 @@ End-to-end CRM analytics using historical eCommerce and email marketing data to 
 
 ## Usage Instructions
 1. Clone the repository  
-2. Place source data in `data/` or configure pipeline  
-3. Run `python notebooks/prepare_data.py`  
+2. Use the cleaned CSV datasets in data/ folder
 4. Execute notebooks in `notebooks/` for analysis & model training  
 5. Export datasets to `powerbi/` and open `.pbix` files  
-6. Deploy scoring API in `api/` for production dashboards
 
 ---
 
