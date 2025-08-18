@@ -107,6 +107,7 @@ End-to-end CRM analytics using historical eCommerce and email marketing data to 
 
 
 **Power BI Dashboard** 
+
 See Power-BI tab **Business Translation & Key Insights** for consolidated key insights and conclusions relevant to business decisions. This tab summarizes performance trends, customer risk, and actionable recommendations based on CRM and retention analysis.  
 
 ![CRM Overview tab](screenshots/CRM_overview_tab.png)  
