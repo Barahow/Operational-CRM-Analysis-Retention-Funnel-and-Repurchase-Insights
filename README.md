@@ -57,7 +57,7 @@ Six-month churn centers around 14 to 15 percent across RFM segments, with high v
 (screenshots/python_RFM_quintiles_new vs. repeat.pgn)  
 *Figure: Linear Model Regression Results  *  
 
-![How does customer engagement fatigue-measured by cumulative opens and inactivity periods-influence unsubscribe rates and purchase likelihood?](screenshots/python_purchase_summary.pgn)  
+![How does customer engagement fatigue-measured by cumulative opens and inactivity periods-influence unsubscribe rates and purchase likelihood?](screenshots/python_purchase_summary.png)  
 *Figure:  Logit Regression Results *  
 
 
