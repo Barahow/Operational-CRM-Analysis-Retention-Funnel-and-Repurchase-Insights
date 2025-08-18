@@ -18,16 +18,16 @@ End-to-end CRM analytics using simulated eCommerce and streaming data to identif
 | #  | Question   
 |---|------------------------------------------------
 | 1  | Order & Fulfillment Overview  
-* What are the daily, weekly, and monthly order volumes?
-* Q2: What is the average fulfillment cycle time (order → delivery) over time?
-* Q3: What percentage of orders are delivered on time (OTD %)?
-* Q4: How does return rate vary by product category and month?
+-  What are the daily, weekly, and monthly order volumes?
+-  Q2: What is the average fulfillment cycle time (order → delivery) over time?
+-  Q3: What percentage of orders are delivered on time (OTD %)?
+-  Q4: How does return rate vary by product category and month?
 | 2  | Inventory & Returns
-* Q5: How do inventory levels fluctuate relative to order peaks?                                                        
+- Q5: How do inventory levels fluctuate relative to order peaks?                                                        
 | 3  | High-Level CRM Descriptives
-*  Q6: Overall open rate, click-through rate (CTR), and unsubscribe rate by channel.
-* Q7: Open/CTR/unsubscribe broken out by customer segment (new vs. repeat vs. inactive).
-* Q8: Open/CTR/unsubscribe by age group and region.                                                                        
+- Q6: Overall open rate, click-through rate (CTR), and unsubscribe rate by channel.
+- Q7: Open/CTR/unsubscribe broken out by customer segment (new vs. repeat vs. inactive).
+- Q8: Open/CTR/unsubscribe by age group and region.                                                                        
 
 
 
