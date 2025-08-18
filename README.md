@@ -104,7 +104,7 @@ Conclusion: Cumulative engagement is a strong purchase predictor. Repeat status 
 ![Logit regression significance](screenshots/python_Model_Significance_Order.png)  
 *Figure: Logit regression results*
 
-![RFM quintiles: new vs repeat](screenshots/python_RFM_quintiles_new_vs_repeat.png)  
+![RFM quintiles: new vs repeat](screenshots/python_RFM_quintiles_new%20vs.%20repeat.png)  
 *Figure: RFM quintile comparison*
 
 ![Purchase and unsubscribe model summary](screenshots/python_purchase_summary.png)  
