@@ -53,7 +53,8 @@ Six-month churn centers around 14 to 15 percent across RFM segments, with high v
 ![Is the effect of subject variant on open rate consistent across segments and channels, or explained by confounders?](screenshots/python_Model_Significance_Order.pgn)  
 *Figure: Logit Regression Results *  
 
-![Which customer segments (RFM quintiles, new vs. repeat) respond best to promotions vs. newsletters](screenshots/python_RFM_quintiles_new vs. repeat.pgn)  
+![Which customer segments (RFM quintiles, new vs. repeat) respond best to promotions vs. newsletters?]
+(screenshots/python_RFM_quintiles_new vs. repeat.pgn)  
 *Figure: Linear Model Regression Results  *  
 
 ![How does customer engagement fatigue-measured by cumulative opens and inactivity periods-influence unsubscribe rates and purchase likelihood?](screenshots/python_purchase_summary.pgn)  
