@@ -110,7 +110,8 @@ Conclusion: Cumulative engagement is a strong purchase predictor. Repeat status 
 ![Purchase and unsubscribe model summary](screenshots/python_purchase_summary.png)  
 *Figure: Logistic regression summaries*
 
-**Power BI Dashboard**  
+**Power BI Dashboard** 
+See Power BI tab **Business Translation & Key Insights** for consolidated risk, performance, and recommended actions.  
 ![CRM Overview tab](screenshots/CRM_overview_tab.png)  
 *Figure: CRM overview with KPIs and trends*
 
