@@ -50,11 +50,11 @@ Six-month churn centers around 14 to 15 percent across RFM segments, with high v
 ## Screenshots to Include
 
 **Python Analysis**  
-![Is the effect of subject variant on open rate consistent across segments and channels, or explained by confounders?](screenshots/python_Model_Significance_Order.pgn)  
+![Is the effect of subject variant on open rate consistent across segments and channels, or explained by confounders?](screenshots/python_Model_Significance_Order.png)  
 *Figure: Logit Regression Results *  
 
 ![Which customer segments (RFM quintiles, new vs. repeat) respond best to promotions vs. newsletters?]
-(screenshots/python_RFM_quintiles_new vs. repeat.pgn)  
+(screenshots/python_RFM_quintiles_new%20vs.%20repeat.png)  
 *Figure: Linear Model Regression Results  *  
 
 ![How does customer engagement fatigue-measured by cumulative opens and inactivity periods-influence unsubscribe rates and purchase likelihood?](screenshots/python_purchase_summary.png)  
@@ -63,13 +63,13 @@ Six-month churn centers around 14 to 15 percent across RFM segments, with high v
 
 
 **Power BI Dashboard**  
-![Customer Churn Overview tab](screenshots/CRM_overview_tab)  
+![Customer Churn Overview tab](screenshots/CRM_overview_tab.png)  
 *Figure: CRM Overview with KPIs, trends, and top Product categories*
 
-![Customer Risk Analysis tab](screenshots/customer_risk_analysis_tab)  
+![Customer Risk Analysis tab](screenshots/customer_risk_analysis_tab.png)  
 *Figure: Customer risk insight with KPIs, Churn rate by RFM segments, and regions.*
 
-![Email Marketing performance tab](screenshots/email_marketing_performance_tab)  
+![Email Marketing performance tab](screenshots/email_marketing_performance_tab.png)  
 *Figure: Email marketing performance with KPIs, trends, and underperforming campaigns*
 
 
