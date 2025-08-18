@@ -106,7 +106,9 @@ End-to-end CRM analytics using historical eCommerce and email marketing data to 
 *Summary of logistic regression models predicting purchase and unsubscribe outcomes. Demonstrates the effect of cumulative engagement and customer type on purchase likelihood and unsubscribe risk.*
 
 
-**Power BI Dashboard**  
+**Power BI Dashboard** 
+See Power-BI tab **Business Translation & Key Insights** for consolidated key insights and conclusions relevant to business decisions. This tab summarizes performance trends, customer risk, and actionable recommendations based on CRM and retention analysis.  
+
 ![CRM Overview tab](screenshots/CRM_overview_tab.png)  
 ![Customer Risk Analysis tab](screenshots/customer_risk_analysis_tab.png)  
 ![Email Marketing performance tab](screenshots/email_marketing_performance_tab.png)
