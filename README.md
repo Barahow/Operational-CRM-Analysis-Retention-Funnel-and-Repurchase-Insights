@@ -95,9 +95,16 @@ End-to-end CRM analytics using historical eCommerce and email marketing data to 
 ## Screenshots
 
 **Python Analysis**  
+
 ![Logit regression significance](screenshots/python_Model_Significance_Order.png)  
+*Logistic regression coefficients and significance levels for key predictors affecting churn, purchase probability, and unsubscribe behavior. Highlights variables with meaningful directional impact.*  
+
 ![RFM quintiles: new vs repeat](screenshots/python_RFM_quintiles_new%20vs.%20repeat.png)  
-![Purchase and unsubscribe model summary](screenshots/python_purchase_summary.png)
+*Comparison of RFM (Recency, Frequency, Monetary) segments between new and repeat customers. Shows differences in purchase behavior and engagement across segments.*  
+
+![Purchase and unsubscribe model summary](screenshots/python_purchase_summary.png)  
+*Summary of logistic regression models predicting purchase and unsubscribe outcomes. Demonstrates the effect of cumulative engagement and customer type on purchase likelihood and unsubscribe risk.*
+
 
 **Power BI Dashboard**  
 ![CRM Overview tab](screenshots/CRM_overview_tab.png)  
