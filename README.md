@@ -1,6 +1,6 @@
 # Operations & CRM Performance Dashboard with Retention Analysis
 
-End-to-end CRM analytics using simulated eCommerce and streaming data to identify retention drivers, optimize purchase funnels, and predict repurchase likelihood. Includes automated pipelines and interactive Power BI dashboards for actionable retention insights.
+End-to-end CRM analytics using historical eCommerce and email marketing data to analyze customer behavior, identify retention drivers, measure churn, and evaluate email engagement. Includes automated Python analysis pipelines, logistic and linear modeling, and interactive Power BI dashboards for actionable retention and cohort insights.
 
 ## Table of Contents
 1. [Descriptive Analysis Questions](#descriptive-analysis-questions)  
